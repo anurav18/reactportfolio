@@ -5,7 +5,7 @@ import Introductioncard from '../components/IntroductionCard';
 
 function AboutMe(){
 
-    return(
+return(
 
  <div class="container">
   <div class="row">
@@ -18,9 +18,7 @@ function AboutMe(){
   </div>
   <ParticlesBg color="#ffd500" num={200} type="cobweb" bg={true} />
 </div>
-    
-
-    );
+ );
 }
 
 export default AboutMe;

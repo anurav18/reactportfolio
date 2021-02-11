@@ -8,10 +8,8 @@ import Wrapper from "../components/Wrapper";
 class Experience extends Component{
 
 render(){
- return(
-  
-     
-  <React.Fragment>
+ return(   
+<React.Fragment>
 <ParticlesBg color="#ffd500" num={200} type="cobweb" bg={true} />
   <main role="main" className="container" id="experience-container">
       <div className="row">

@@ -3,7 +3,6 @@ import {BrowserRouter as Router, Route} from "react-router-dom";
 import AboutMe from "./pages/AboutMe";
 import Experience from "./pages/Experience";
 import Projects from "./pages/Projects";
-// import API from "./utils/Experience";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";

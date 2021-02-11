@@ -15,6 +15,9 @@ function Footer() {
     <div class="col">
     <a href="https://www.linkedin.com/in/anusha-r-068011123/" target="_blank" class="contact-card"><i class="fab fa-linkedin-in"></i>  linkedIn </a>
     </div>
+    <div class="col">
+   <a href=""> <i class="fas fa-envelope-open-text"></i> anusharavva@gmail.com </a>
+    </div>
   </div>
 
       </div>
