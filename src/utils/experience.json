@@ -2,16 +2,30 @@
 {
     "id": 1,
     "ClientName": "State of Minnesota",
-    "Description":"SharePoint Developer 2013"
+    "Description":"Worked as a SharePoint Developer,Developed a SharePoint 2013 portal for the department of Public Safety at State of Minnesota to store all the shared documents and information in a central location.",
+    "image":""
 },
 {
     "id": 2,
     "ClientName": "IEM",
-    "Description":"SharePoint Developer 2013"
+    "Description":"Worked as a SharePoint Developer,Designed and developed custom templates and provided technical support to the SharePoint publishing site and Team site.",
+   "image":""
 },
 {
     "id": 3,
     "ClientName": "Schlumberger",
-    "Description":"SharePoint Developer 2013"
+    "Description":"Responsible for providing and influencing key decisions for technical and infrastructure architecture.Involved in supporting the administration team in Site Creations and activating few features at SharePoint farm level.Worked on the SharePoint administration, design and SQL Server Reporting Services (SSRS).Involved in the creation of detailed SharePoint architecture, metadata and topology.Responsible in meeting the Stakeholders to gather the requirements."
+},
+{
+    "id": 4,
+    "ClientName": "ExxonMobil",
+    "Description":"Worked as SharePoint/Power platform Admin.Configured Power Apps Portal environment from Scratch.Worked on the Architecture and implementation of Azure Storage, Azure, Azure Blob Storage and Azure Functions.Involved in the development of PowerApps Portal which was used as an Escalation Tool for different issues and was widely used within the organization.Worked on the customization of the PowerApps Portal front end using JavaScript, Bootstrap, CSS, HTML and jQuery.",
+   "image":""
+},
+{
+    "id": 5,
+    "ClientName": "BCBS",
+    "Description":"Worked as a PowerApps Admin/Developer Blue flex Renewal Project was an initiation to automate the entire renewal process which was previously a manual process handled by the Underwriting team. This is a plan which was developed by BCBS to provide insurance benefits to the business which have less than 50 employees.Integrated the entire process handled by Underwriting team, actuary team, account executive team and broker packet management using Power Apps. ",
+    "image":""
 }
 ]

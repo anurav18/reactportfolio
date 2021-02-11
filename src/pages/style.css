@@ -1,0 +1,10 @@
+#experience-container{
+
+        padding: 50px;
+        width:100%;
+        align-self: center;
+        color:black;
+        display: flex;
+        flex-direction:column;
+    
+}

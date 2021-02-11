@@ -1,15 +1,33 @@
-import React from "react";
+import React,{Component} from "react";
 import ParticlesBg from 'particles-bg';
+import ExperienceCard from '../components/ExperienceCard';
+import './style.css';
+import experience from '../utils/experience.json';
+import Wrapper from "../components/Wrapper";
 
-function Experience(){
+class Experience extends Component{
 
-    return(
+render(){
+ return(
 <div>
-    <h1>Experience</h1>
+    
+<div class="container" id="experience-container">
 
+    {experience.map(experience => (
+          <ExperienceCard
+            id={experience.id}
+            key={experience.id}
+            name={experience.ClientName}
+            image={experience.image}
+            description={experience.Description}
+          />
+        ))}
+</div>
     <ParticlesBg color="#ffd500" num={200} type="cobweb" bg={true} />
 </div>
     );
+    }
+   
 }
 
 export default Experience;
