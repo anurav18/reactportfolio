@@ -8,3 +8,59 @@
         flex-direction:column;
     
 }
+
+#contain-style {
+      margin-top: 40px;
+      margin-bottom: 75px;
+}
+    
+    
+    .amimage {
+      width: 300px;
+      height: auto;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    
+    .icon {
+      color: #9D9B9B;
+      font-size: 20px;
+    }
+    
+    .card {
+      /* height: 400px; */
+      height:auto;
+      width: 315px;
+      transition: all .2s ease-in-out; 
+      border-radius: 13px;
+    }
+    
+    .card:hover {
+      transform: scale(1.1); 
+    }
+    
+    
+    .portimage {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      border-bottom: 2px solid #A6C8CA;
+      border-radius: 10px;
+    
+    }
+    
+      
+      .icon-span {
+        margin: 15px;
+      }
+    
+     
+      .icon:hover {
+        transform: scale(1.3); 
+        color:#266150;
+      }
+    
+      .icon:active {
+        color:#A6C8CA;
+      }
+

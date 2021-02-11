@@ -9,11 +9,16 @@ class Experience extends Component{
 
 render(){
  return(
-<div>
-    
-<div class="container" id="experience-container">
-
-    {experience.map(experience => (
+  
+     
+  <React.Fragment>
+<ParticlesBg color="#ffd500" num={200} type="cobweb" bg={true} />
+  <main role="main" className="container" id="experience-container">
+      <div className="row">
+      
+          <div className="col-xs-12 col-sm-8 col-md-12 p-4">
+          
+          {experience.map(experience => (
           <ExperienceCard
             id={experience.id}
             key={experience.id}
@@ -22,11 +27,14 @@ render(){
             description={experience.Description}
           />
         ))}
-</div>
-    <ParticlesBg color="#ffd500" num={200} type="cobweb" bg={true} />
-</div>
+
+          </div>
+      </div>
+  </main>
+
+</React.Fragment>
     );
-    }
+}
    
 }
 
