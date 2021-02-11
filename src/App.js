@@ -14,6 +14,7 @@ return(
         <Navbar />
         <Wrapper>
           <Route exact path="/" component={AboutMe} />
+          <Route exact path="/reactportfolio" component={AboutMe} />
           <Route exact path="/aboutMe" component={AboutMe} />
           <Route exact path="/experience" component={Experience} />
           <Route exact path="/projects" component={Projects} />

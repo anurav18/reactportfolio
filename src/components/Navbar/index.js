@@ -6,7 +6,7 @@ import "./style.css";
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/">
+      <Link className="navbar-brand" to="/reactportfolio">
         Portfolio
       </Link>
       <div>
@@ -15,7 +15,7 @@ function Navbar() {
             <Link
               to="/"
               className={
-                window.location.pathname === "/" || window.location.pathname === "/aboutMe"
+                window.location.pathname === "/" || window.location.pathname === "/aboutMe" ||window.location.pathname === "/reactportfolio"
                   ? "nav-link active"
                   : "nav-link"
               }
