@@ -7,7 +7,7 @@ function Footer() {
       <div class="container">
       <div class="row align-items-start">
     <div class="col">
-    <a href="" download="" class="contact-card"><i class="fas fa-file-pdf"></i>  Resume</a>
+    <a href={process.env.PUBLIC_URL+"/images/AnushaRavva_Resume.pdf"} download="Anusha_Resume" class="contact-card"><i class="fas fa-file-pdf"></i>  Resume</a>
     </div>
     <div class="col">
     <a href="https://github.com/anurav18/" target="_blank" class="contact-card"><i class="fab fa-github"></i>  gitHub </a>
