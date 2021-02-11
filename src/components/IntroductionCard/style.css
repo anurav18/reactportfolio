@@ -1,0 +1,16 @@
+.intro-card{
+    padding: 50px;
+    background-color: rgba(247, 202, 24, 0.25);
+    height: 700;
+    margin-left: 100px;
+    margin-top: 50px;
+  color:black;
+}
+
+.intro-heading{
+   font-family: cursive ;
+}
+
+.intro-paragraph{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
