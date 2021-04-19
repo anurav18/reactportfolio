@@ -7,7 +7,7 @@ function Introductioncard() {
  <h2 class="intro-heading">Hi,I am Anusha,nice to meet you!</h2>
  <br></br>
  <p class="intro-paragraph">
- I am a SharePoint Developer who has immense interest in customizing the look and feel of the SharePoint Sites. 
+ I am a SharePoint Developer/PowerApps who has immense interest in customizing the look and feel of the SharePoint Sites. 
           In order to achieve this, I need to have the skill of using several web technologies like HTML, CSS, JavaScript, jQuery and many more, 
           with the rapid increase in the demand for responsive web pages, I was always interested to pursue my career as a UI developer. I believe that 
           I have a creative brain and feel like I should convert this aspect of mine into a Career path. 
