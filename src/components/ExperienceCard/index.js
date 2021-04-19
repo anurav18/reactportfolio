@@ -20,6 +20,7 @@ function ExperienceCard(props)
    <img src={process.env.PUBLIC_URL + props.image} alt={props.name} style={styles.img}></img>
   
     <h5 class="card-title">{props.name}</h5>
+    <p class="card-text"><b>{props.role}</b></p>
     <p class="card-text">{props.description}</p>
     
   </div>

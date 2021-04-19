@@ -17,7 +17,7 @@ return(
           <Route exact path="/reactportfolio" component={AboutMe} />
           <Route exact path="/aboutMe" component={AboutMe} />
           <Route exact path="/experience" component={Experience} />
-          <Route exact path="/projects" component={Projects} />
+          {/* <Route exact path="/projects" component={Projects} /> */}
         </Wrapper>
         <Footer />
       </div>

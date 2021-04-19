@@ -31,14 +31,14 @@ function Navbar() {
               Experience
             </Link>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <Link
               to="/projects"
               className={window.location.pathname === "/projects" ? "nav-link active" : "nav-link"}
             >
               Projects
             </Link>
-          </li>
+          </li> */}
         </ul>
       </div>
     </nav>

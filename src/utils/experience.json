@@ -2,31 +2,50 @@
 {
     "id": 1,
     "ClientName": "State of Minnesota",
-    "Description":"Worked as a SharePoint Developer,Developed a SharePoint 2013 portal for the department of Public Safety at State of Minnesota to store all docs. ",
+    "Role": "SharePoint 2013 Developer",
+    "Description":"Worked as a SharePoint Developer,Developed a SharePoint 2013 portal for the department of Public Safety at State of Minnesota. ",
     "image": "/images/StateofMN.png"
 },
 {
     "id": 2,
     "ClientName": "IEM",
-    "Description":"Worked as a SharePoint Developer,Designed and developed custom templates and provided technical support to the SharePoint publishing site and Team site.",
+    "Role": "SharePoint Online Developer",
+    "Description":"Worked on a Washington DC State Project to develop a SharePoint Site for HSEMA from scratch",
    "image":"/images/IEM.jpeg"
 },
 {
     "id": 3,
     "ClientName": "Schlumberger",
     "image":"/images/Schlumberger.png",
-    "Description":"Involved in the creation of detailed SharePoint architecture, metadata and topology.Responsible in meeting the Stakeholders to gather the requirements."
+    "Role":"SharePoint Online Developer",
+    "Description":"Involved in the creation of detailed SharePoint architecture, metadata and topology."
 },
 {
     "id": 4,
     "ClientName": "ExxonMobil",
-    "Description":"Worked as SharePoint/Power platform Admin.Configured Power Apps Portal environment from Scratch.Worked on the Architecture and implementation of Azure Storage, Azure, Azure Blob Storage and Azure Functions.",
+    "Role":"SharePoint Online/ Power Platform Developer",
+    "Description":"Worked on different M365 cloud products including Architecture and implementation of Azure Resources",
    "image":"/images/ExxonMobil.png"
 },
 {
     "id": 5,
+    "ClientName": "Microsoft",
+    "Role":"PowerApps Developer",
+    "Description":"Worked on the building of Customer Service PowerApps Portal from scratch using custom Javascript. ",
+    "image":"/images/MSFT_logo.png"
+},
+{
+    "id": 6,
     "ClientName": "BCBS",
-    "Description":"Worked as a PowerApps Admin/Developer Blue flex Renewal Project was an initiation to automate the entire renewal process which was previously a manual process handled by the Underwriting team. ",
+    "Role":"PowerApps Developer",
+    "Description":"Worked on Blue flex Renewal Project which was mainly focused on automating the Health insurance Renewal Intake form  ",
     "image":"/images/bcbs.png"
+},
+{
+    "id": 7,
+    "ClientName": "Prime Therapeutics",
+    "Role":"PowerApps Developer/Administrator",
+    "Description":"Worked as a PowerApps Admin/Developer Blue flex Renewal Project was an initiation to automate the entire renewal process which was previously a manual process handled by the Underwriting team. ",
+    "image":"/images/PT_logo.png"
 }
 ]

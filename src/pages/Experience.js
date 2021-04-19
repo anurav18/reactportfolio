@@ -23,6 +23,7 @@ render(){
             name={experience.ClientName}
             image={experience.image}
             description={experience.Description}
+            role={experience.Role}
           />
         ))}
 
